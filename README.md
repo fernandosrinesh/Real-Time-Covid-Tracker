@@ -1,4 +1,4 @@
-# Real-Time-Covid-Tracker using R shiny library
+# Changed -  Real-Time-Covid-Tracker using R shiny library
 
 
 This application has been made to get updated Covid data to track the rising no of cases around the world and the data has been taken from
